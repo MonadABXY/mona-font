@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Mona12";
+  src: url("Mona12.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12 Color Emoji";
+  src: url("Mona12ColorEmoji.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12 Emoji";
+  src: url("Mona12Emoji.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12 Text KR";
+  src: url("Mona12TextKR.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12 Text JP";
+  src: url("Mona12TextJP.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12 Text SC";
+  src: url("Mona12TextSC.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12 Text TC";
+  src: url("Mona12TextTC.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12 Text HK";
+  src: url("Mona12TextHK.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.mona12 {
+  font-family: "Mona12", sans-serif;
+}
+
+.mona12-kr {
+  font-family: "Mona12 Text KR", sans-serif;
+}
+
+.mona12-jp {
+  font-family: "Mona12 Text JP", sans-serif;
+}
+
+.mona12-sc {
+  font-family: "Mona12 Text SC", sans-serif;
+}
+
+.mona12-tc {
+  font-family: "Mona12 Text TC", sans-serif;
+}
+
+.mona12-hk {
+  font-family: "Mona12 Text HK", sans-serif;
+}
+
+.mona12-emoji-color {
+  font-family: "Mona12 Color Emoji", sans-serif;
+}
+
+.mona12-emoji {
+  font-family: "Mona12 Emoji", sans-serif;
+}
