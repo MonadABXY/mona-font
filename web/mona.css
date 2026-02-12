@@ -1,7 +1,15 @@
 @font-face {
   font-family: "Mona12";
   src: url("Mona12.woff2") format("woff2");
-  font-weight: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mona12";
+  src: url("Mona12-Bold.woff2") format("woff2");
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
@@ -64,6 +72,11 @@
 
 .mona12 {
   font-family: "Mona12", sans-serif;
+}
+
+.mona12-bold {
+  font-family: "Mona12", sans-serif;
+  font-weight: 700;
 }
 
 .mona12-kr {

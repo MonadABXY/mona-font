@@ -12,6 +12,18 @@ Mona Font is a pixel-style font that supports multilingual text, special symbols
 - **Kerning**: Kerning is applied to Latin characters for better readability.
 - **Emoji Support**: Includes both Color Emojis and Monochrome Emojis.
 
+## Font Preview
+
+[Try it out](https://monadabxy.com/fonts/mona/)
+
+### Mona12
+
+![Mona12 Preview](./docs/readme-preview-12.png)
+
+### Mona12 Bold
+
+![Mona12 Bold Preview](./docs/readme-preview-12-bold.png)
+
 ## Download
 
 [Download Latest Version](https://github.com/MonadABXY/mona-font/releases/latest)
@@ -43,10 +55,10 @@ Please choose the appropriate font file for your needs.
 
 | Category              | Mona10 | Mona10 Bold | Mona12 | Mona12 Bold |
 | --------------------- | ------ | ----------- | ------ | ----------- |
-| Hangul Syllables      | ❌     | ❌          | ✅     | ❌          |
-| Latin                 | ❌     | ❌          | ✅     | ❌          |
+| Hangul Syllables      | ❌     | ❌          | ✅     | ✅          |
+| Latin                 | ❌     | ❌          | ✅     | ✅          |
 | CJK Ideographs        | ❌     | ❌          | ✅     | ❌          |
-| Hiragana / Katakana   | ❌     | ❌          | ✅     | ❌          |
+| Hiragana / Katakana   | ❌     | ❌          | ✅     | ✅          |
 | Greek                 | ❌     | ❌          | ✅     | ❌          |
 | Cyrillic              | ❌     | ❌          | ✅     | ❌          |
 | Symbols / Punctuation | ❌     | ❌          | ✅     | ❌          |
