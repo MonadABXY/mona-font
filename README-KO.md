@@ -57,13 +57,13 @@ Mona Font는 다국어 텍스트, 특수 기호, 이모지를 함께 지원하�
 | ------------------- | ------ | ----------- | ------ | ----------- |
 | 한글 음절           | ❌     | ❌          | ✅     | ✅          |
 | 라틴 문자           | ❌     | ❌          | ✅     | ✅          |
-| 한자                | ❌     | ❌          | ✅     | ❌          |
+| 한자                | ❌     | ❌          | ✅     | ⚠️          |
 | 히라가나 / 가타카나 | ❌     | ❌          | ✅     | ✅          |
 | 그리스 문자         | ❌     | ❌          | ✅     | ❌          |
 | 키릴 문자           | ❌     | ❌          | ✅     | ❌          |
 | 특수 문자 / 기호    | ❌     | ❌          | ✅     | ❌          |
-| 흑백 이모지         | ❌     | ❌          | ✅     | ❌          |
-| 컬러 이모지         | ❌     | ❌          | ✅     | ❌          |
+| 흑백 이모지         | ❌     | -          | ✅     | -           |
+| 컬러 이모지         | ❌     | -          | ✅     | -           |
 
 정확한 문자 목록은 아래에서 확인할 수 있습니다.
 
@@ -95,3 +95,9 @@ Mona Font는 다국어 텍스트, 특수 기호, 이모지를 함께 지원하�
 - **사용 범위**: 한자(CJK Ideographs) 영역의 글리프
 - **License**: SIL Open Font License 1.1
 - **Source**: [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font)
+
+#### 3. PixelMplus (M+ Fonts)
+
+- **사용 범위**: 일본어와 일부 관련 기호 참조, 일부 한자의 글리프
+- **License**: M+ FONT LICENSE
+- **Source**: [itouhiro/PixelMplus](https://github.com/itouhiro/PixelMplus)

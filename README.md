@@ -57,13 +57,13 @@ Please choose the appropriate font file for your needs.
 | --------------------- | ------ | ----------- | ------ | ----------- |
 | Hangul Syllables      | ❌     | ❌          | ✅     | ✅          |
 | Latin                 | ❌     | ❌          | ✅     | ✅          |
-| CJK Ideographs        | ❌     | ❌          | ✅     | ❌          |
+| CJK Ideographs        | ❌     | ❌          | ✅     | ⚠️          |
 | Hiragana / Katakana   | ❌     | ❌          | ✅     | ✅          |
 | Greek                 | ❌     | ❌          | ✅     | ❌          |
 | Cyrillic              | ❌     | ❌          | ✅     | ❌          |
 | Symbols / Punctuation | ❌     | ❌          | ✅     | ❌          |
-| Monochrome Emoji      | ❌     | ❌          | ✅     | ❌          |
-| Color Emoji           | ❌     | ❌          | ✅     | ❌          |
+| Monochrome Emoji      | ❌     | -           | ✅     | -           |
+| Color Emoji           | ❌     | -           | ✅     | -           |
 
 You can check the detailed list of supported characters below.
 
@@ -95,3 +95,9 @@ However, selling the font file itself is prohibited.
 - **Usage**: Glyphs in the CJK Ideographs area
 - **License**: SIL Open Font License 1.1
 - **Source**: [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font)
+
+#### 3. PixelMplus (M+ Fonts)
+
+- **Usage**: Reference for Japanese and certain related symbols; some CJK ideograph glyphs
+- **License**: M+ FONT LICENSE
+- **Source**: [itouhiro/PixelMplus](https://github.com/itouhiro/PixelMplus)
