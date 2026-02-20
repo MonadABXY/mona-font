@@ -16,6 +16,10 @@ Mona Font is a pixel-style font that supports multilingual text, special symbols
 
 [Try it out](https://monadabxy.com/fonts/mona/)
 
+### Mona8x12
+
+![Mona8x12 Preview](./docs/readme-preview-8x12.png)
+
 ### Mona12
 
 ![Mona12 Preview](./docs/readme-preview-12.png)
@@ -51,19 +55,32 @@ Please choose the appropriate font file for your needs.
 @import url("https://cdn.jsdelivr.net/gh/MonadABXY/mona-font/web/mona.css");
 ```
 
+## Recommended Sizes
+
+To prevent blurriness and ensure crisp rendering, we recommend using the **specified base pixel size or its integer multiples**.
+You don't need to worry about this on high-resolution displays or for printed materials.
+
+| Font            | px     | pt      |
+| :-------------- | :----- | :------ |
+| **Mona10**      | `10px` | `7.5pt` |
+| **Mona10 Bold** | `10px` | `7.5pt` |
+| **Mona8x12**    | `12px` | `9pt`   |
+| **Mona12**      | `12px` | `9pt`   |
+| **Mona12 Bold** | `12px` | `9pt`   |
+
 ## Coverage
 
-| Category              | Mona10 | Mona10 Bold | Mona12 | Mona12 Bold |
-| --------------------- | ------ | ----------- | ------ | ----------- |
-| Hangul Syllables      | ❌     | ❌          | ✅     | ✅          |
-| Latin                 | ❌     | ❌          | ✅     | ✅          |
-| CJK Ideographs        | ❌     | ❌          | ✅     | ⚠️          |
-| Hiragana / Katakana   | ❌     | ❌          | ✅     | ✅          |
-| Greek                 | ❌     | ❌          | ✅     | ❌          |
-| Cyrillic              | ❌     | ❌          | ✅     | ❌          |
-| Symbols / Punctuation | ❌     | ❌          | ✅     | ❌          |
-| Monochrome Emoji      | ❌     | -           | ✅     | -           |
-| Color Emoji           | ❌     | -           | ✅     | -           |
+| Category              | Mona10 | Mona10 Bold | Mona8x12 | Mona12 | Mona12 Bold |
+| --------------------- | ------ | ----------- | -------- | ------ | ----------- |
+| Hangul Syllables      | ❌     | ❌          | ✅       | ✅     | ✅          |
+| Latin                 | ❌     | ❌          | ✅       | ✅     | ✅          |
+| CJK Ideographs        | ❌     | ❌          | ❌       | ✅     | ⚠️          |
+| Hiragana / Katakana   | ❌     | ❌          | ⚠️       | ✅     | ✅          |
+| Greek                 | ❌     | ❌          | ✅       | ✅     | ❌          |
+| Cyrillic              | ❌     | ❌          | ✅       | ✅     | ❌          |
+| Symbols / Punctuation | ❌     | ❌          | ❌       | ✅     | ❌          |
+| Monochrome Emoji      | ❌     | -           | -        | ✅     | -           |
+| Color Emoji           | ❌     | -           | -        | ✅     | -           |
 
 You can check the detailed list of supported characters below.
 

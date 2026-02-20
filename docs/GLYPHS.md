@@ -2,8 +2,35 @@
 ### Summary
 | Font Name | Total Glyphs |
 | :--- | :---: |
+| **[Mona8x12 Regular](#mona8x12-regular)** | 12,634 |
 | **[Mona12 Regular](#mona12-regular)** | 39,342 |
 | **[Mona12 Bold](#mona12-bold)** | 18,922 |
+
+---
+
+<a id='mona8x12-regular'></a>
+## Mona8x12 Regular
+**File:** `Mona8x12.ttf`  
+**Total Glyphs:** `12,634`  
+
+| Block Name | Range | Count | Coverage | Progress |
+| :--- | :--- | :---: | :---: | :--- |
+| **Basic Latin** | `U+0000-U+007F` | 95 / 95 | **100.0%** | `██████████` |
+| **Latin-1 Supplement** | `U+0080-U+00FF` | 96 / 96 | **100.0%** | `██████████` |
+| **Latin Extended-A** | `U+0100-U+017F` | 128 / 128 | **100.0%** | `██████████` |
+| **Latin Extended-B** | `U+0180-U+024F` | 134 / 208 | **64.4%** | `██████░░░░` |
+| **IPA Extensions** | `U+0250-U+02AF` | 2 / 96 | **2.1%** | `░░░░░░░░░░` |
+| **Spacing Modifier Letters** | `U+02B0-U+02FF` | 9 / 80 | **11.2%** | `█░░░░░░░░░` |
+| **Greek and Coptic** | `U+0370-U+03FF` | 135 / 135 | **100.0%** | `██████████` |
+| **Cyrillic** | `U+0400-U+04FF` | 256 / 256 | **100.0%** | `██████████` |
+| **Cyrillic Supplement** | `U+0500-U+052F` | 4 / 48 | **8.3%** | `░░░░░░░░░░` |
+| **Latin Extended Additional** | `U+1E00-U+1EFF` | 6 / 256 | **2.3%** | `░░░░░░░░░░` |
+| **Superscripts and Subscripts** | `U+2070-U+209F` | 42 / 42 | **100.0%** | `██████████` |
+| **Arrows** | `U+2190-U+21FF` | 112 / 112 | **100.0%** | `██████████` |
+| **Braille Patterns** | `U+2800-U+28FF` | 256 / 256 | **100.0%** | `██████████` |
+| **Hiragana** | `U+3040-U+309F` | 93 / 93 | **100.0%** | `██████████` |
+| **Hangul Compatibility Jamo** | `U+3130-U+318F` | 94 / 94 | **100.0%** | `██████████` |
+| **Hangul Syllables** | `U+AC00-U+D7AF` | 11172 / 11172 | **100.0%** | `██████████` |
 
 ---
 
