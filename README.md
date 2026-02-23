@@ -35,6 +35,8 @@ Please choose the appropriate font file for your needs.
 
 ## Webfont Usage
 
+You can load and use the font via an HTML <link> tag or the CSS @import method.
+
 ### `<link>`
 
 ```html
@@ -45,6 +47,19 @@ Please choose the appropriate font file for your needs.
 
 ```css
 @import url("https://cdn.jsdelivr.net/gh/MonadABXY/mona-font/web/mona.css");
+```
+
+### `Using font-family`
+
+```css
+font-family: "Mona12", sans-serif;
+```
+
+### `Using classes`
+
+```css
+<div class="mona12">Mona Font 12px</div>
+<div class="mona12-bold">Mona Font 12px Bold</div>
 ```
 
 ## Recommended Sizes

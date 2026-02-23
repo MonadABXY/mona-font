@@ -35,6 +35,8 @@ Mona Font는 다국어 텍스트, 특수 기호, 이모지를 함께 지원하�
 
 ## 웹폰트 적용
 
+HTML `<link>` 태그 또는 CSS `@import` 방식으로 폰트를 불러온 후 사용할 수 있습니다.
+
 ### `<link>`
 
 ```html
@@ -45,6 +47,19 @@ Mona Font는 다국어 텍스트, 특수 기호, 이모지를 함께 지원하�
 
 ```css
 @import url("https://cdn.jsdelivr.net/gh/MonadABXY/mona-font/web/mona.css");
+```
+
+### `폰트 패밀리로 사용`
+
+```css
+font-family: "Mona12", sans-serif;
+```
+
+### `클래스로 사용`
+
+```css
+<div class="mona12">모나 폰트 12px</div>
+<div class="mona12-bold">모나 폰트 12px 굵게</div>
 ```
 
 ## 권장 크기
