@@ -84,9 +84,9 @@ You don't need to worry about this on high-resolution displays or for printed ma
 | Hangul Syllables      | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Latin                 | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | CJK Ideographs        | ❌     | ❌          | ❌       | ❌        | ❌             | ✅     | ⚠️          |
-| Hiragana / Katakana   | ❌     | ❌          | ❌       | ✅        | ❌             | ✅     | ✅          |
-| Greek                 | ❌     | ❌          | ✅       | ✅        | ❌             | ✅     | ✅          |
-| Cyrillic              | ❌     | ❌          | ✅       | ✅        | ❌             | ✅     | ✅          |
+| Hiragana / Katakana   | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Greek                 | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Cyrillic              | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Symbols / Punctuation | ❌     | ❌          | ❌       | ✅        | ❌             | ✅     | ✅          |
 | Monochrome Emoji      | ❌     | -           | -        | -         | -              | ✅     | -           |
 | Color Emoji           | ❌     | -           | -        | -         | -              | ✅     | -           |
