@@ -8,6 +8,7 @@ Mona Font is a pixel-style font that supports multilingual text, special symbols
 
 ## Features
 
+- **Style Options**: Available in two visual styles—the original `Mona` and the straightened `Mona S`.
 - **Localized Forms**: Supports region-specific CJK Ideographs using the OpenType `locl` feature.
 - **Kerning**: Kerning is applied to Latin characters for better readability.
 - **Emoji Support**: Includes both Color Emojis and Monochrome Emojis.
@@ -19,6 +20,10 @@ Mona Font is a pixel-style font that supports multilingual text, special symbols
 ### 12px
 
 <img src="./docs/readme-preview-12.png" width="600">
+
+### Mona vs. Mona S Comparison
+
+<img src="./docs/readme-preview-s12.png" width="600">
 
 ## Download
 
@@ -41,18 +46,21 @@ You can load and use the font via an HTML <link> tag or the CSS @import method.
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MonadABXY/mona-font/web/mona.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MonadABXY/mona-font/web/monas.css" />
 ```
 
 ### `@import`
 
 ```css
 @import url("https://cdn.jsdelivr.net/gh/MonadABXY/mona-font/web/mona.css");
+@import url("https://cdn.jsdelivr.net/gh/MonadABXY/mona-font/web/monas.css");
 ```
 
 ### `Using font-family`
 
 ```css
 font-family: "Mona12", sans-serif;
+font-family: "MonaS12", sans-serif;
 ```
 
 ### `Using classes`
@@ -60,6 +68,8 @@ font-family: "Mona12", sans-serif;
 ```css
 <div class="mona12">Mona Font 12px</div>
 <div class="mona12-bold">Mona Font 12px Bold</div>
+<div class="monas12">Mona Font S12px</div>
+<div class="monas12-bold">Mona Font S12px Bold</div>
 ```
 
 ## Recommended Sizes

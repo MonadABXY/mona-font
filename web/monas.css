@@ -1,38 +1,38 @@
 @font-face {
-  font-family: "Mona8x12";
-  src: url("Mona8x12.woff2") format("woff2");
+  font-family: "MonaS8x12";
+  src: url("MonaS8x12.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Mona10x12";
-  src: url("Mona10x12.woff2") format("woff2");
+  font-family: "MonaS10x12";
+  src: url("MonaS10x12.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Mona10x12";
-  src: url("Mona10x12-Bold.woff2") format("woff2");
+  font-family: "MonaS10x12";
+  src: url("MonaS10x12-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Mona12";
-  src: url("Mona12.woff2") format("woff2");
+  font-family: "MonaS12";
+  src: url("MonaS12.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Mona12";
-  src: url("Mona12-Bold.woff2") format("woff2");
+  font-family: "MonaS12";
+  src: url("MonaS12-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -55,61 +55,61 @@
 }
 
 @font-face {
-  font-family: "Mona12 Text KR";
-  src: url("Mona12TextKR.woff2") format("woff2");
+  font-family: "MonaS12 Text KR";
+  src: url("MonaS12TextKR.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-.mona8x12 {
-  font-family: "Mona8x12", sans-serif;
+.monas8x12 {
+  font-family: "MonaS8x12", sans-serif;
 }
 
-.mona10x12 {
-  font-family: "Mona10x12", sans-serif;
+.monas10x12 {
+  font-family: "MonaS10x12", sans-serif;
 }
 
-.mona10x12-bold {
-  font-family: "Mona10x12", sans-serif;
+.monas10x12-bold {
+  font-family: "MonaS10x12", sans-serif;
   font-weight: 700;
 }
 
-.mona12 {
-  font-family: "Mona12", sans-serif;
+.monas12 {
+  font-family: "MonaS12", sans-serif;
 }
 
-.mona12-bold {
-  font-family: "Mona12", sans-serif;
+.monas12-bold {
+  font-family: "MonaS12", sans-serif;
   font-weight: 700;
 }
 
-.mona12-kr {
-  font-family: "Mona12", sans-serif;
+.monas12-kr {
+  font-family: "MonaS12", sans-serif;
   font-feature-settings: "locl" 1;
   font-language-override: "KOR ";
 }
 
-.mona12-jp {
-  font-family: "Mona12", sans-serif;
+.monas12-jp {
+  font-family: "MonaS12", sans-serif;
   font-feature-settings: "locl" 1;
   font-language-override: "JAN ";
 }
 
-.mona12-sc {
-  font-family: "Mona12", sans-serif;
+.monas12-sc {
+  font-family: "MonaS12", sans-serif;
   font-feature-settings: "locl" 1;
   font-language-override: "ZHS ";
 }
 
-.mona12-tc {
-  font-family: "Mona12", sans-serif;
+.monas12-tc {
+  font-family: "MonaS12", sans-serif;
   font-feature-settings: "locl" 1;
   font-language-override: "ZHT ";
 }
 
-.mona12-hk {
-  font-family: "Mona12", sans-serif;
+.monas12-hk {
+  font-family: "MonaS12", sans-serif;
   font-feature-settings: "locl" 1;
   font-language-override: "ZHH ";
 }
