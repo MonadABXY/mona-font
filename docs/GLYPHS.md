@@ -2,11 +2,66 @@
 ### Summary
 | Font Name | Total Glyphs |
 | :--- | :---: |
+| **[Mona10 Regular](#mona10-regular)** | 21,603 |
 | **[Mona8x12 Regular](#mona8x12-regular)** | 13,142 |
-| **[Mona10x12 Regular](#mona10x12-regular)** | 15,019 |
+| **[Mona10x12 Regular](#mona10x12-regular)** | 15,243 |
 | **[Mona10x12 Bold](#mona10x12-bold)** | 12,766 |
 | **[Mona12 Regular](#mona12-regular)** | 39,343 |
 | **[Mona12 Bold](#mona12-bold)** | 21,650 |
+
+---
+
+<a id='mona10-regular'></a>
+## Mona10 Regular
+**File:** `Mona10.ttf`  
+**Total Glyphs:** `21,603`  
+
+| Block Name | Range | Count | Coverage | Progress |
+| :--- | :--- | :---: | :---: | :--- |
+| **Basic Latin** | `U+0000-U+007F` | 95 / 95 | **100.0%** | `██████████` |
+| **Latin-1 Supplement** | `U+0080-U+00FF` | 96 / 96 | **100.0%** | `██████████` |
+| **Latin Extended-A** | `U+0100-U+017F` | 128 / 128 | **100.0%** | `██████████` |
+| **Latin Extended-B** | `U+0180-U+024F` | 134 / 208 | **64.4%** | `██████░░░░` |
+| **IPA Extensions** | `U+0250-U+02AF` | 2 / 96 | **2.1%** | `░░░░░░░░░░` |
+| **Spacing Modifier Letters** | `U+02B0-U+02FF` | 9 / 80 | **11.2%** | `█░░░░░░░░░` |
+| **Combining Diacritical Marks** | `U+0300-U+036F` | 99 / 112 | **88.4%** | `████████░░` |
+| **Greek and Coptic** | `U+0370-U+03FF` | 135 / 135 | **100.0%** | `██████████` |
+| **Cyrillic** | `U+0400-U+04FF` | 256 / 256 | **100.0%** | `██████████` |
+| **Cyrillic Supplement** | `U+0500-U+052F` | 4 / 48 | **8.3%** | `░░░░░░░░░░` |
+| **Hangul Jamo** | `U+1100-U+11FF` | 256 / 256 | **100.0%** | `██████████` |
+| **Latin Extended Additional** | `U+1E00-U+1EFF` | 6 / 256 | **2.3%** | `░░░░░░░░░░` |
+| **General Punctuation** | `U+2000-U+206F` | 72 / 111 | **64.9%** | `██████░░░░` |
+| **Superscripts and Subscripts** | `U+2070-U+209F` | 42 / 42 | **100.0%** | `██████████` |
+| **Currency Symbols** | `U+20A0-U+20CF` | 34 / 33 | **100.0%** | `██████████` |
+| **Letterlike Symbols** | `U+2100-U+214F` | 10 / 80 | **12.5%** | `█░░░░░░░░░` |
+| **Number Forms** | `U+2150-U+218F` | 60 / 60 | **100.0%** | `██████████` |
+| **Arrows** | `U+2190-U+21FF` | 112 / 112 | **100.0%** | `██████████` |
+| **Mathematical Operators** | `U+2200-U+22FF` | 256 / 256 | **100.0%** | `██████████` |
+| **Miscellaneous Technical** | `U+2300-U+23FF` | 1 / 256 | **0.4%** | `░░░░░░░░░░` |
+| **Enclosed Alphanumerics** | `U+2460-U+24FF` | 160 / 160 | **100.0%** | `██████████` |
+| **Box Drawing** | `U+2500-U+257F` | 128 / 128 | **100.0%** | `██████████` |
+| **Block Elements** | `U+2580-U+259F` | 32 / 32 | **100.0%** | `██████████` |
+| **Geometric Shapes** | `U+25A0-U+25FF` | 96 / 96 | **100.0%** | `██████████` |
+| **Miscellaneous Symbols** | `U+2600-U+26FF` | 256 / 256 | **100.0%** | `██████████` |
+| **Dingbats** | `U+2700-U+27BF` | 192 / 192 | **100.0%** | `██████████` |
+| **Braille Patterns** | `U+2800-U+28FF` | 256 / 256 | **100.0%** | `██████████` |
+| **Supplemental Punctuation** | `U+2E00-U+2E7F` | 2 / 94 | **2.1%** | `░░░░░░░░░░` |
+| **CJK Symbols and Punctuation** | `U+3000-U+303F` | 35 / 64 | **54.7%** | `█████░░░░░` |
+| **Hiragana** | `U+3040-U+309F` | 93 / 93 | **100.0%** | `██████████` |
+| **Katakana** | `U+30A0-U+30FF` | 96 / 96 | **100.0%** | `██████████` |
+| **Hangul Compatibility Jamo** | `U+3130-U+318F` | 94 / 94 | **100.0%** | `██████████` |
+| **Enclosed CJK Letters and Months** | `U+3200-U+32FF` | 255 / 255 | **100.0%** | `██████████` |
+| **CJK Compatibility** | `U+3300-U+33FF` | 46 / 256 | **18.0%** | `█░░░░░░░░░` |
+| **CJK Unified Ideographs** | `U+4E00-U+9FFF` | 6356 / 20992 | **30.3%** | `███░░░░░░░` |
+| **Hangul Jamo Extended-A** | `U+A960-U+A97F` | 29 / 29 | **100.0%** | `██████████` |
+| **Hangul Syllables** | `U+AC00-U+D7AF` | 11172 / 11172 | **100.0%** | `██████████` |
+| **Hangul Jamo Extended-B** | `U+D7B0-U+D7FF` | 72 / 72 | **100.0%** | `██████████` |
+| **Alphabetic Presentation Forms** | `U+FB00-U+FB4F` | 5 / 58 | **8.6%** | `░░░░░░░░░░` |
+| **Vertical Forms** | `U+FE10-U+FE1F` | 10 / 10 | **100.0%** | `██████████` |
+| **CJK Compatibility Forms** | `U+FE30-U+FE4F` | 32 / 32 | **100.0%** | `██████████` |
+| **Halfwidth and Fullwidth Forms** | `U+FF00-U+FFEF` | 214 / 225 | **95.1%** | `█████████░` |
+| **Specials** | `U+FFF0-U+FFFF` | 5 / 5 | **100.0%** | `██████████` |
+| **Enclosed Alphanumeric Supplement** | `U+1F100-U+1F1FF` | 160 / 200 | **80.0%** | `████████░░` |
 
 ---
 
@@ -45,7 +100,7 @@
 <a id='mona10x12-regular'></a>
 ## Mona10x12 Regular
 **File:** `Mona10x12.ttf`  
-**Total Glyphs:** `15,019`  
+**Total Glyphs:** `15,243`  
 
 | Block Name | Range | Count | Coverage | Progress |
 | :--- | :--- | :---: | :---: | :--- |
@@ -81,7 +136,7 @@
 | **Hiragana** | `U+3040-U+309F` | 93 / 93 | **100.0%** | `██████████` |
 | **Katakana** | `U+30A0-U+30FF` | 96 / 96 | **100.0%** | `██████████` |
 | **Hangul Compatibility Jamo** | `U+3130-U+318F` | 94 / 94 | **100.0%** | `██████████` |
-| **Enclosed CJK Letters and Months** | `U+3200-U+32FF` | 31 / 255 | **12.2%** | `█░░░░░░░░░` |
+| **Enclosed CJK Letters and Months** | `U+3200-U+32FF` | 255 / 255 | **100.0%** | `██████████` |
 | **CJK Compatibility** | `U+3300-U+33FF` | 42 / 256 | **16.4%** | `█░░░░░░░░░` |
 | **Hangul Jamo Extended-A** | `U+A960-U+A97F` | 29 / 29 | **100.0%** | `██████████` |
 | **Hangul Syllables** | `U+AC00-U+D7AF` | 11172 / 11172 | **100.0%** | `██████████` |

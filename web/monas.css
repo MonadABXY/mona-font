@@ -1,4 +1,12 @@
 @font-face {
+  font-family: "MonaS10";
+  src: url("MonaS10.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "MonaS8x12";
   src: url("MonaS8x12.woff2") format("woff2");
   font-weight: 400;
@@ -60,6 +68,10 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap;
+}
+
+.monas10 {
+  font-family: "MonaS10", sans-serif;
 }
 
 .monas8x12 {

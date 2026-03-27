@@ -1,14 +1,15 @@
 ![Banner](./docs/readme-banner.png)
 
-[English](./README.md) | [한국어](./README-KO.md)
+# [English](./README.md) | [한국어로 보기](./README-KO.md)
 
 # Mona Font
 
 Mona Font is a pixel-style font that supports multilingual text, special symbols, and emojis.
+> **Mona Font is under active development and is continuously updated to improve its quality.**
 
 ## Features
 
-- **Style Options**: Available in two visual styles—the original `Mona` and the straightened `Mona S`.
+- **Style Options**: Original `Mona` and `Mona S`, which features straightened Hangul strokes.
 - **Localized Forms**: Supports region-specific CJK Ideographs using the OpenType `locl` feature.
 - **Kerning**: Kerning is applied to Latin characters for better readability.
 - **Emoji Support**: Includes both Color Emojis and Monochrome Emojis.
@@ -16,6 +17,10 @@ Mona Font is a pixel-style font that supports multilingual text, special symbols
 ## Font Preview
 
 [Try it out](https://monadabxy.com/fonts/mona/)
+
+### 10px
+
+<img src="./docs/readme-preview-10.png" width="600">
 
 ### 12px
 
@@ -66,10 +71,10 @@ font-family: "MonaS12", sans-serif;
 ### `Using classes`
 
 ```css
-<div class="mona12">Mona Font 12px</div>
-<div class="mona12-bold">Mona Font 12px Bold</div>
-<div class="monas12">Mona Font S12px</div>
-<div class="monas12-bold">Mona Font S12px Bold</div>
+<div class="mona12">Mona12</div>
+<div class="mona12-bold">Mona12 Bold</div>
+<div class="monas12">MonaS12</div>
+<div class="monas12-bold">MonaS12 Bold</div>
 ```
 
 ## Recommended Sizes
@@ -91,13 +96,13 @@ You don't need to worry about this on high-resolution displays or for printed ma
 
 | Category              | Mona10 | Mona10 Bold | Mona8x12 | Mona10x12 | Mona10x12 Bold | Mona12 | Mona12 Bold |
 | --------------------- | ------ | ----------- | -------- | --------- | -------------- | ------ | ----------- |
-| Hangul Syllables      | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Latin                 | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| CJK Ideographs        | ❌     | ❌          | ❌       | ❌        | ❌             | ✅     | ⚠️          |
-| Hiragana / Katakana   | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Greek                 | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Cyrillic              | ❌     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Symbols / Punctuation | ❌     | ❌          | ❌       | ✅        | ❌             | ✅     | ✅          |
+| Hangul Syllables      | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Latin                 | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| CJK Ideographs        | ⚠️     | ❌          | ❌       | ❌        | ❌             | ✅     | ⚠️          |
+| Hiragana / Katakana   | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Greek                 | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Cyrillic              | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Symbols / Punctuation | ✅     | ❌          | ❌       | ✅        | ❌             | ✅     | ✅          |
 | Monochrome Emoji      | ❌     | -           | -        | -         | -              | ✅     | -           |
 | Color Emoji           | ❌     | -           | -        | -         | -              | ✅     | -           |
 
