@@ -96,13 +96,13 @@ You don't need to worry about this on high-resolution displays or for printed ma
 
 | Category              | Mona10 | Mona10 Bold | Mona8x12 | Mona10x12 | Mona10x12 Bold | Mona12 | Mona12 Bold |
 | --------------------- | ------ | ----------- | -------- | --------- | -------------- | ------ | ----------- |
-| Hangul Syllables      | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Latin                 | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| CJK Ideographs        | ⚠️     | ❌          | ❌       | ❌        | ❌             | ✅     | ⚠️          |
-| Hiragana / Katakana   | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Greek                 | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Cyrillic              | ✅     | ❌          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Symbols / Punctuation | ✅     | ❌          | ❌       | ✅        | ❌             | ✅     | ✅          |
+| Hangul Syllables      | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Latin                 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| CJK Ideographs        | ⚠️     | ⚠️          | ❌       | ❌        | ❌             | ✅     | ⚠️          |
+| Hiragana / Katakana   | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Greek                 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Cyrillic              | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
+| Symbols / Punctuation | ✅     | ⚠️          | ❌       | ✅        | ❌             | ✅     | ✅          |
 | Monochrome Emoji      | ❌     | -           | -        | -         | -              | ✅     | -           |
 | Color Emoji           | ❌     | -           | -        | -         | -              | ✅     | -           |
 

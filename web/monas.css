@@ -7,6 +7,14 @@
 }
 
 @font-face {
+  font-family: "MonaS10";
+  src: url("MonaS10-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "MonaS8x12";
   src: url("MonaS8x12.woff2") format("woff2");
   font-weight: 400;
