@@ -102,13 +102,16 @@ You don't need to worry about this on high-resolution displays or for printed ma
 | Hiragana / Katakana   | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Greek                 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Cyrillic              | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| Symbols / Punctuation | ✅     | ⚠️          | ❌       | ✅        | ❌             | ✅     | ✅          |
+| Symbols / Punctuation | ✅     | ✅          | ❌       | ✅        | ✅             | ✅     | ✅          |
 | Monochrome Emoji      | ❌     | -           | -        | -         | -              | ✅     | -           |
 | Color Emoji           | ❌     | -           | -        | -         | -              | ✅     | -           |
 
 You can check the detailed list of supported characters below.
 
 [Detailed Glyph List](./docs/GLYPHS.md)
+
+## Feedback
+[Submit Feedback (Google Forms)](https://forms.gle/tVEPMUdHvE9P1Lvr6)
 
 ## License & Credits
 
