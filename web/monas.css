@@ -63,6 +63,14 @@
 }
 
 @font-face {
+  font-family: "Mona12 Color Emoji";
+  src: url("Mona12ColorEmoji.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Mona12 Emoji";
   src: url("Mona12Emoji.woff2") format("woff2");
   font-weight: normal;
@@ -71,9 +79,25 @@
 }
 
 @font-face {
+  font-family: "Mona12 Emoji";
+  src: url("Mona12Emoji-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "MonaS12 Text KR";
   src: url("MonaS12TextKR.woff2") format("woff2");
   font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MonaS12 Text KR";
+  src: url("MonaS12TextKR-Bold.woff2") format("woff2");
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
@@ -138,6 +162,16 @@
   font-family: "Mona12 Color Emoji", sans-serif;
 }
 
+.mona12-emoji-color-bold {
+  font-family: "Mona12 Color Emoji", sans-serif;
+  font-weight: 700;
+}
+
 .mona12-emoji {
   font-family: "Mona12 Emoji", sans-serif;
+}
+
+.mona12-emoji-bold {
+  font-family: "Mona12 Emoji", sans-serif;
+  font-weight: 700;
 }
