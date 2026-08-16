@@ -5,6 +5,7 @@
 # Mona Font
 
 Mona Font is a pixel-style font that supports multilingual text, special symbols, and emojis.
+
 > **Mona Font is under active development and is continuously updated to improve its quality.**
 
 ## Features
@@ -98,7 +99,7 @@ You don't need to worry about this on high-resolution displays or for printed ma
 | --------------------- | ------ | ----------- | -------- | --------- | -------------- | ------ | ----------- |
 | Hangul Syllables      | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Latin                 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| CJK Ideographs        | ⚠️     | ⚠️          | ✅       | ❌        | ❌             | ✅     | ✅          |
+| CJK Ideographs        | ⚠️     | ⚠️          | ⚠️       | ❌        | ❌             | ✅     | ✅          |
 | Hiragana / Katakana   | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Greek                 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Cyrillic              | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
@@ -111,6 +112,7 @@ You can check the detailed list of supported characters below.
 [Detailed Glyph List](./docs/GLYPHS.md)
 
 ## Feedback
+
 [Submit Feedback (Google Forms)](https://forms.gle/tVEPMUdHvE9P1Lvr6)
 
 ## License & Credits
