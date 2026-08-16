@@ -98,7 +98,7 @@ You don't need to worry about this on high-resolution displays or for printed ma
 | --------------------- | ------ | ----------- | -------- | --------- | -------------- | ------ | ----------- |
 | Hangul Syllables      | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Latin                 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| CJK Ideographs        | ⚠️     | ⚠️          | ❌       | ❌        | ❌             | ✅     | ✅          |
+| CJK Ideographs        | ⚠️     | ⚠️          | ✅       | ❌        | ❌             | ✅     | ✅          |
 | Hiragana / Katakana   | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Greek                 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | Cyrillic              | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
@@ -145,3 +145,9 @@ However, selling the font file itself is prohibited.
 - **Usage**: Reference for Japanese and certain related symbols; some CJK ideograph glyphs
 - **License**: M+ FONT LICENSE
 - **Source**: [itouhiro/PixelMplus](https://github.com/itouhiro/PixelMplus)
+
+#### 4. k8x12
+
+- **Usage**: CJK ideograph glyphs in Mona8x12
+- **License**: See [LICENSE/k8x12.txt](./LICENSE/k8x12.txt)
+- **Copyright**: Copyright (C) 2015-2021 Num Kadoma

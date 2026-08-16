@@ -98,7 +98,7 @@ font-family: "MonaS12", sans-serif;
 | ------------------- | ------ | ----------- | -------- | --------- | -------------- | ------ | ----------- |
 | 한글 음절           | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | 라틴 문자           | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
-| 한자                | ⚠️     | ⚠️          | ❌       | ❌        | ❌             | ✅     | ✅          |
+| 한자                | ⚠️     | ⚠️          | ✅       | ❌        | ❌             | ✅     | ✅          |
 | 히라가나 / 가타카나 | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | 그리스 문자         | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
 | 키릴 문자           | ✅     | ✅          | ✅       | ✅        | ✅             | ✅     | ✅          |
@@ -145,3 +145,9 @@ font-family: "MonaS12", sans-serif;
 - **사용 범위**: 일본어와 일부 관련 기호 참조, 일부 한자의 글리프
 - **License**: M+ FONT LICENSE
 - **Source**: [itouhiro/PixelMplus](https://github.com/itouhiro/PixelMplus)
+
+#### 4. k8x12
+
+- **사용 범위**: Mona8x12의 한자 글리프
+- **License**: [LICENSE/k8x12.txt](./LICENSE/k8x12.txt) 참조
+- **Copyright**: Copyright (C) 2015-2021 Num Kadoma
