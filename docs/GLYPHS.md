@@ -7,8 +7,8 @@
 | **[Mona8x12 Regular](#mona8x12-regular)** | 19,499 |
 | **[Mona10x12 Regular](#mona10x12-regular)** | 15,244 |
 | **[Mona10x12 Bold](#mona10x12-bold)** | 15,244 |
-| **[Mona12 Regular](#mona12-regular)** | 39,803 |
-| **[Mona12 Bold](#mona12-bold)** | 39,803 |
+| **[Mona12 Regular](#mona12-regular)** | 39,940 |
+| **[Mona12 Bold](#mona12-bold)** | 39,940 |
 
 ---
 
@@ -267,7 +267,7 @@
 <a id='mona12-regular'></a>
 ## Mona12 Regular
 **File:** `Mona12.ttf`  
-**Total Glyphs:** `39,803`  
+**Total Glyphs:** `39,940`  
 
 | Block Name | Range | Count | Coverage | Progress |
 | :--- | :--- | :---: | :---: | :--- |
@@ -318,7 +318,7 @@
 | **Hangul Syllables** | `U+AC00-U+D7AF` | 11172 / 11172 | **100.0%** | `██████████` |
 | **Hangul Jamo Extended-B** | `U+D7B0-U+D7FF` | 72 / 72 | **100.0%** | `██████████` |
 | **Private Use Area** | `U+E000-U+F8FF` | 1 / 6400 | **0.0%** | `░░░░░░░░░░` |
-| **CJK Compatibility Ideographs** | `U+F900-U+FAFF` | 295 / 472 | **62.5%** | `██████░░░░` |
+| **CJK Compatibility Ideographs** | `U+F900-U+FAFF` | 423 / 472 | **89.6%** | `████████░░` |
 | **Alphabetic Presentation Forms** | `U+FB00-U+FB4F` | 5 / 58 | **8.6%** | `░░░░░░░░░░` |
 | **Variation Selectors** | `U+FE00-U+FE0F` | 3 / 16 | **18.8%** | `█░░░░░░░░░` |
 | **Vertical Forms** | `U+FE10-U+FE1F` | 10 / 10 | **100.0%** | `██████████` |
@@ -333,11 +333,11 @@
 | **Enclosed Ideographic Supplement** | `U+1F200-U+1F2FF` | 15 / 64 | **23.4%** | `██░░░░░░░░` |
 | **Miscellaneous Symbols and Pictographs** | `U+1F300-U+1F5FF` | 768 / 768 | **100.0%** | `██████████` |
 | **Emoticons** | `U+1F600-U+1F64F` | 80 / 80 | **100.0%** | `██████████` |
-| **Transport and Map Symbols** | `U+1F680-U+1F6FF` | 119 / 119 | **100.0%** | `██████████` |
+| **Transport and Map Symbols** | `U+1F680-U+1F6FF` | 120 / 119 | **100.0%** | `██████████` |
 | **Geometric Shapes Extended** | `U+1F780-U+1F7FF` | 17 / 103 | **16.5%** | `█░░░░░░░░░` |
 | **Supplemental Arrows-C** | `U+1F800-U+1F8FF` | 171 / 171 | **100.0%** | `██████████` |
 | **Supplemental Symbols and Pictographs** | `U+1F900-U+1F9FF` | 256 / 256 | **100.0%** | `██████████` |
-| **Symbols and Pictographs Extended-A** | `U+1FA70-U+1FAFF` | 120 / 120 | **100.0%** | `██████████` |
+| **Symbols and Pictographs Extended-A** | `U+1FA70-U+1FAFF` | 128 / 120 | **100.0%** | `██████████` |
 | **Symbols for Legacy Computing** | `U+1FB00-U+1FBFF` | 250 / 250 | **100.0%** | `██████████` |
 | **CJK Unified Ideographs Extension B** | `U+20000-U+2A6DF` | 1146 / 42720 | **2.7%** | `░░░░░░░░░░` |
 | **CJK Unified Ideographs Extension C** | `U+2A700-U+2B73F` | 36 / 4160 | **0.9%** | `░░░░░░░░░░` |
@@ -353,7 +353,7 @@
 <a id='mona12-bold'></a>
 ## Mona12 Bold
 **File:** `Mona12-Bold.ttf`  
-**Total Glyphs:** `39,803`  
+**Total Glyphs:** `39,940`  
 
 | Block Name | Range | Count | Coverage | Progress |
 | :--- | :--- | :---: | :---: | :--- |
@@ -404,7 +404,7 @@
 | **Hangul Syllables** | `U+AC00-U+D7AF` | 11172 / 11172 | **100.0%** | `██████████` |
 | **Hangul Jamo Extended-B** | `U+D7B0-U+D7FF` | 72 / 72 | **100.0%** | `██████████` |
 | **Private Use Area** | `U+E000-U+F8FF` | 1 / 6400 | **0.0%** | `░░░░░░░░░░` |
-| **CJK Compatibility Ideographs** | `U+F900-U+FAFF` | 295 / 472 | **62.5%** | `██████░░░░` |
+| **CJK Compatibility Ideographs** | `U+F900-U+FAFF` | 423 / 472 | **89.6%** | `████████░░` |
 | **Alphabetic Presentation Forms** | `U+FB00-U+FB4F` | 5 / 58 | **8.6%** | `░░░░░░░░░░` |
 | **Variation Selectors** | `U+FE00-U+FE0F` | 3 / 16 | **18.8%** | `█░░░░░░░░░` |
 | **Vertical Forms** | `U+FE10-U+FE1F` | 10 / 10 | **100.0%** | `██████████` |
@@ -419,11 +419,11 @@
 | **Enclosed Ideographic Supplement** | `U+1F200-U+1F2FF` | 15 / 64 | **23.4%** | `██░░░░░░░░` |
 | **Miscellaneous Symbols and Pictographs** | `U+1F300-U+1F5FF` | 768 / 768 | **100.0%** | `██████████` |
 | **Emoticons** | `U+1F600-U+1F64F` | 80 / 80 | **100.0%** | `██████████` |
-| **Transport and Map Symbols** | `U+1F680-U+1F6FF` | 119 / 119 | **100.0%** | `██████████` |
+| **Transport and Map Symbols** | `U+1F680-U+1F6FF` | 120 / 119 | **100.0%** | `██████████` |
 | **Geometric Shapes Extended** | `U+1F780-U+1F7FF` | 17 / 103 | **16.5%** | `█░░░░░░░░░` |
 | **Supplemental Arrows-C** | `U+1F800-U+1F8FF` | 171 / 171 | **100.0%** | `██████████` |
 | **Supplemental Symbols and Pictographs** | `U+1F900-U+1F9FF` | 256 / 256 | **100.0%** | `██████████` |
-| **Symbols and Pictographs Extended-A** | `U+1FA70-U+1FAFF` | 120 / 120 | **100.0%** | `██████████` |
+| **Symbols and Pictographs Extended-A** | `U+1FA70-U+1FAFF` | 128 / 120 | **100.0%** | `██████████` |
 | **Symbols for Legacy Computing** | `U+1FB00-U+1FBFF` | 250 / 250 | **100.0%** | `██████████` |
 | **CJK Unified Ideographs Extension B** | `U+20000-U+2A6DF` | 1146 / 42720 | **2.7%** | `░░░░░░░░░░` |
 | **CJK Unified Ideographs Extension C** | `U+2A700-U+2B73F` | 36 / 4160 | **0.9%** | `░░░░░░░░░░` |
